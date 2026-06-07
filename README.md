@@ -75,7 +75,7 @@ Bastion Host  ← public subnet (SSH gateway into private subnet)
 - **Database:** MySQL on RDS (`employee` table)
 - **Object Storage:** S3 (employee images)
 - **NoSQL:** DynamoDB (`employee_image_table`)
-- **App Code:** [ZubairQuazi/aws-code-1](https://github.com/ZubairQuazi/aws-code-1)
+
 
 ---
 
