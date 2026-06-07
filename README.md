@@ -353,8 +353,3 @@ aws-multi-tier-web-app/
 - Mapped a **custom domain to an ALB** using Route 53 alias A records
 
 ---
-
-## Author
-
-**Neeraj** — Junior Cloud Engineer | Hyderabad, India  
-[GitHub](https://github.com/Neerajdamera27)
